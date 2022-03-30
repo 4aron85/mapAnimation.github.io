@@ -1,7 +1,7 @@
 # mapAnimation.github.io
 ## Real Time Bus Tracking
 
-Here we created a marker that represents a bus and its route from MIT campus to Harvard Campus. We used latitude/longitude coordinates to choose the best route, and by stopping by all the other bust stops on the trip. 
+Here we created a marker that represents a bus and its route from MIT campus to Harvard Campus. We used latitude/longitude coordinates to choose the best route, and by stopping by all the other bus stops on the trip. 
 
 
 MIT License
